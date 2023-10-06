@@ -1,4 +1,4 @@
-# Algorithmic Trading with Python
+##Algorithmic!Trading with Python
 Source code for Algorithmic Trading with Python (2020) by Chris Conlan. 
 
 Paperback available for purchase [on Amazon](https://amzn.to/2UZbHuA).
@@ -23,3 +23,4 @@ These stand-alone resources can be useful to researchers with or without the acc
 
 
 
+ 
